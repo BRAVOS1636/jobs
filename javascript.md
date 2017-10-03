@@ -35,4 +35,4 @@ Salário: Baseado na experiência e participação
 
 Local: https://goo.gl/maps/5jEgqkuEDAk
 
-Aplicação: Enviar curriculo com pretensão salarial para ricardo@braveinvest.com.br 
+Aplicação: Enviar curriculo com pretensão salarial para ricardo@braveinvest.com.br e felipe@braveinvest.com.br
